@@ -1,0 +1,14 @@
+D:\labs\кросплатформ\lab10\bin\Debug\net10.0\lab10.exe
+D:\labs\кросплатформ\lab10\bin\Debug\net10.0\lab10.deps.json
+D:\labs\кросплатформ\lab10\bin\Debug\net10.0\lab10.runtimeconfig.json
+D:\labs\кросплатформ\lab10\bin\Debug\net10.0\lab10.dll
+D:\labs\кросплатформ\lab10\bin\Debug\net10.0\lab10.pdb
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.AssemblyInfoInputs.cache
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.AssemblyInfo.cs
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.csproj.CoreCompileInputs.cache
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.dll
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\refint\lab10.dll
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.pdb
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\lab10.genruntimeconfig.cache
+D:\labs\кросплатформ\lab10\obj\Debug\net10.0\ref\lab10.dll
